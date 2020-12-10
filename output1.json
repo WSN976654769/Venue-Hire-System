@@ -1,0 +1,233 @@
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Tiger",
+    "Elephant"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Tiger",
+    "Elephant"
+  ],
+  "status": "success"
+}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Tiger"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Tiger"
+  ],
+  "status": "success"
+}
+{"status": "success"}
+[
+  {
+    "reservations": [
+      {
+        "start": "2017-03-20",
+        "end": "2018-03-26",
+        "id": "06"
+      },
+      {
+        "start": "2019-03-11",
+        "end": "2019-03-13",
+        "id": "02"
+      },
+      {
+        "start": "2019-03-15",
+        "end": "2019-03-18",
+        "id": "03"
+      },
+      {
+        "start": "2019-03-20",
+        "end": "2019-03-26",
+        "id": "01"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-04-01",
+        "id": "05"
+      },
+      {
+        "start": "2020-03-20",
+        "end": "2021-03-26",
+        "id": "07"
+      }
+    ],
+    "room": "Penguin"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2017-03-20",
+        "end": "2018-03-26",
+        "id": "06"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-04-01",
+        "id": "05"
+      },
+      {
+        "start": "2020-03-20",
+        "end": "2021-03-26",
+        "id": "07"
+      }
+    ],
+    "room": "Tiger"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-27",
+      "end": "2019-04-01",
+      "id": "05"
+    }],
+    "room": "Elephant"
+  }
+]
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2011-05-27",
+        "end": "2012-11-27",
+        "id": "05"
+      },
+      {
+        "start": "2017-03-20",
+        "end": "2018-03-26",
+        "id": "06"
+      },
+      {
+        "start": "2019-03-11",
+        "end": "2019-03-13",
+        "id": "02"
+      },
+      {
+        "start": "2019-03-15",
+        "end": "2019-03-18",
+        "id": "03"
+      },
+      {
+        "start": "2019-03-20",
+        "end": "2019-03-26",
+        "id": "01"
+      },
+      {
+        "start": "2020-03-20",
+        "end": "2021-03-26",
+        "id": "07"
+      }
+    ],
+    "room": "Penguin"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2017-03-20",
+        "end": "2018-03-26",
+        "id": "06"
+      },
+      {
+        "start": "2020-03-20",
+        "end": "2021-03-26",
+        "id": "07"
+      }
+    ],
+    "room": "Tiger"
+  },
+  {
+    "reservations": [],
+    "room": "Elephant"
+  }
+]
+{"status": "success"}
+{"status": "success"}
+[
+  {
+    "reservations": [
+      {
+        "start": "2017-03-20",
+        "end": "2018-03-26",
+        "id": "06"
+      },
+      {
+        "start": "2019-03-11",
+        "end": "2019-03-13",
+        "id": "02"
+      },
+      {
+        "start": "2019-03-15",
+        "end": "2019-03-18",
+        "id": "03"
+      },
+      {
+        "start": "2019-03-20",
+        "end": "2019-03-26",
+        "id": "01"
+      }
+    ],
+    "room": "Penguin"
+  },
+  {
+    "reservations": [{
+      "start": "2017-03-20",
+      "end": "2018-03-26",
+      "id": "06"
+    }],
+    "room": "Tiger"
+  },
+  {
+    "reservations": [],
+    "room": "Elephant"
+  }
+]
+{"status": "rejected"}

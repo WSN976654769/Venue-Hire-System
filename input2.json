@@ -1,0 +1,37 @@
+{ "command": "room", "venue": "Centre Block", "room": "CLB6", "size": "large" }
+{ "command": "room", "venue": "Centre Block", "room": "Cat105", "size": "medium" }
+{ "command": "room", "venue": "Centre Block", "room": "101", "size": "small" }
+{ "command": "room", "venue": "Centre Block", "room": "103", "size": "small" }
+{ "command": "room", "venue": "Computer Science", "room": "bongo", "size": "medium" }
+{ "command": "room", "venue": "Computer Science", "room": "tabla", "size": "medium" }
+{ "command": "room", "venue": "Computer Science", "room": "Oud", "size": "small" }
+{ "command": "room", "venue": "Computer Science", "room": "lyre", "size": "small" }
+{ "command": "request", "id": "Lab", "start": "2019-02-01", "end": "2019-02-25", "small": 2, "medium": 2, "large": 0 }
+{ "command": "request", "id": "consultation", "start": "2019-02-11", "end": "2019-02-15", "small": 2, "medium": 0, "large": 0 }
+{ "command": "list", "venue": "Centre Block" }
+{ "command": "list", "venue": "Computer Science" }
+{ "command": "cancel", "id": "invalid" }
+{ "command": "change", "id": "invalid", "start": "2019-03-27", "end": "2019-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "change", "id": "Lab", "start": "2019-02-12", "end": "2019-03-14", "small": 2, "medium": 0, "large": 0 }
+{ "command": "list", "venue": "Centre Block" }
+{ "command": "list", "venue": "Computer Science" }
+{ "command": "room", "venue": "Centre Block", "room": "CLB7", "size": "large" }
+{ "command": "room", "venue": "Centre Block", "room": "Cat 101", "size": "medium" }
+{ "command": "room", "venue": "Centre Block", "room": "Cat 104", "size": "medium" }
+{ "command": "room", "venue": "Centre Block", "room": "201", "size": "small" }
+{ "command": "request", "id": "tutorial", "start": "2019-02-18", "end": "2019-02-25", "small": 2, "medium": 1, "large": 1 }
+{ "command": "list", "venue": "Centre Block" }
+{ "command": "change", "id": "tutorial", "start": "2019-02-01", "end": "2019-02-05", "small": 2, "medium": 3, "large": 2 }
+{ "command": "list", "venue": "Centre Block" }
+{ "command": "request", "id": "consultation[new]", "start": "2019-02-01", "end": "2019-02-25", "small": 1, "medium": 0, "large": 0 }
+{ "command": "list", "venue": "Centre Block" }
+{ "command": "request", "id": "Lab[new]", "start": "2019-02-01", "end": "2019-02-25", "small": 0, "medium": 2, "large": 0 }
+{ "command": "list", "venue": "Computer Science" }
+{ "command": "request", "id": "Lecture", "start": "2019-01-01", "end": "2019-01-31", "small": 0, "medium": 0, "large": 2 }
+{ "command": "list", "venue": "Centre Block" }
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+{ "command": "room", "venue": "Law Theatre", "room": "Law G01", "size": "large" }
+{ "command": "room", "venue": "Law Theatre", "room": "Cat105", "size": "medium" }
+{ "command": "room", "venue": "Law Theatre", "room": "101", "size": "small" }
+{ "command": "room", "venue": "Law Theatre", "room": "103", "size": "small" }
+{ "command": "room", "venue": "Centre Block", "room": "CLB 7", "size": "large" }
+{ "command": "room", "venue": "Centre Block", "room": "Cat 101", "size": "medium" }
+{ "command": "room", "venue": "Centre Block", "room": "Cat 104", "size": "medium" }
+{ "command": "room", "venue": "Centre Block", "room": "201", "size": "small" }
+{ "command": "room", "venue": "Computer Science", "room": "bongo", "size": "medium" }
+{ "command": "room", "venue": "Computer Science", "room": "tabla", "size": "medium" }
+{ "command": "room", "venue": "Computer Science", "room": "Oud", "size": "small" }
+{ "command": "room", "venue": "Computer Science", "room": "lyre", "size": "small" }
+{ "command": "request", "id": "Fail01", "start": "2019-03-25", "end": "2019-03-29", "small": 1, "medium": 1, "large": 3 }
+{ "command": "request", "id": "Law01", "start": "2019-03-25", "end": "2019-03-29", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Fail02", "start": "2019-03-25", "end": "2019-03-26", "small": 2, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Centre01", "start": "2019-03-26", "end": "2019-03-28", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Law02", "start": "2019-03-01", "end": "2019-03-02", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Law03", "start": "2019-03-08", "end": "2019-03-09", "small": 2, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Law04", "start": "2019-03-10", "end": "2019-03-20", "small": 0, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Law05", "start": "2019-03-10", "end": "2019-03-27", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Lab01", "start": "2019-03-10", "end": "2019-03-20", "small": 2, "medium": 1, "large": 0 }
+{ "command": "request", "id": "Centre02", "start": "2019-03-08", "end": "2019-03-11", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Law06", "start": "2019-03-13", "end": "2019-03-15", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Law07", "start": "2019-03-19", "end": "2019-03-22", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Centre03", "start": "2019-03-14", "end": "2019-03-20", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Centre04", "start": "2019-03-01", "end": "2019-03-25", "small": 0, "medium": 2, "large": 0 }
+{ "command": "request", "id": "Fail03", "start": "2019-03-08", "end": "2019-03-11", "small": 2, "medium": 2, "large": 0 }
+{ "command": "request", "id": "Fail04", "start": "2019-03-13", "end": "2019-03-15", "small": 2, "medium": 2, "large": 0 }
+{ "command": "request", "id": "Fail05", "start": "2019-03-19", "end": "2019-03-22", "small": 2, "medium": 2, "large": 0 }
+{ "command": "request", "id": "Lab02", "start": "2019-03-08", "end": "2019-03-11", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "Lab03", "start": "2019-03-13", "end": "2019-03-15", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "Lab04", "start": "2019-03-19", "end": "2019-03-22", "small": 0, "medium": 1, "large": 0 }
+{ "command": "list", "venue": "Law Theatre" }
+{ "command": "list", "venue": "Centre Block" }
+{ "command": "list", "venue": "Computer Science" }

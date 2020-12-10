@@ -1,0 +1,533 @@
+{
+  "venue": "Computer Science",
+  "rooms": [
+    "bongo",
+    "tabla",
+    "Oud",
+    "lyre"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Centre Block",
+  "rooms": [
+    "101",
+    "103"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [],
+    "room": "CLB6"
+  },
+  {
+    "reservations": [],
+    "room": "Cat105"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-11",
+      "end": "2019-02-15",
+      "id": "consultation"
+    }],
+    "room": "101"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-11",
+      "end": "2019-02-15",
+      "id": "consultation"
+    }],
+    "room": "103"
+  }
+]
+[
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-25",
+      "id": "Lab"
+    }],
+    "room": "bongo"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-25",
+      "id": "Lab"
+    }],
+    "room": "tabla"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-25",
+      "id": "Lab"
+    }],
+    "room": "Oud"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-25",
+      "id": "Lab"
+    }],
+    "room": "lyre"
+  }
+]
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "Computer Science",
+  "rooms": [
+    "Oud",
+    "lyre"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [],
+    "room": "CLB6"
+  },
+  {
+    "reservations": [],
+    "room": "Cat105"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-11",
+      "end": "2019-02-15",
+      "id": "consultation"
+    }],
+    "room": "101"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-11",
+      "end": "2019-02-15",
+      "id": "consultation"
+    }],
+    "room": "103"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "bongo"
+  },
+  {
+    "reservations": [],
+    "room": "tabla"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-12",
+      "end": "2019-03-14",
+      "id": "Lab"
+    }],
+    "room": "Oud"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-12",
+      "end": "2019-03-14",
+      "id": "Lab"
+    }],
+    "room": "lyre"
+  }
+]
+{
+  "venue": "Centre Block",
+  "rooms": [
+    "CLB6",
+    "Cat105",
+    "101",
+    "103"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2019-02-18",
+      "end": "2019-02-25",
+      "id": "tutorial"
+    }],
+    "room": "CLB6"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-18",
+      "end": "2019-02-25",
+      "id": "tutorial"
+    }],
+    "room": "Cat105"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-02-11",
+        "end": "2019-02-15",
+        "id": "consultation"
+      },
+      {
+        "start": "2019-02-18",
+        "end": "2019-02-25",
+        "id": "tutorial"
+      }
+    ],
+    "room": "101"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-02-11",
+        "end": "2019-02-15",
+        "id": "consultation"
+      },
+      {
+        "start": "2019-02-18",
+        "end": "2019-02-25",
+        "id": "tutorial"
+      }
+    ],
+    "room": "103"
+  },
+  {
+    "reservations": [],
+    "room": "CLB7"
+  },
+  {
+    "reservations": [],
+    "room": "Cat 101"
+  },
+  {
+    "reservations": [],
+    "room": "Cat 104"
+  },
+  {
+    "reservations": [],
+    "room": "201"
+  }
+]
+{
+  "venue": "Centre Block",
+  "rooms": [
+    "CLB6",
+    "Cat105",
+    "101",
+    "103",
+    "CLB7",
+    "Cat 101",
+    "Cat 104"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "CLB6"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "Cat105"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-02-01",
+        "end": "2019-02-05",
+        "id": "tutorial"
+      },
+      {
+        "start": "2019-02-11",
+        "end": "2019-02-15",
+        "id": "consultation"
+      }
+    ],
+    "room": "101"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-02-01",
+        "end": "2019-02-05",
+        "id": "tutorial"
+      },
+      {
+        "start": "2019-02-11",
+        "end": "2019-02-15",
+        "id": "consultation"
+      }
+    ],
+    "room": "103"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "CLB7"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "Cat 101"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "Cat 104"
+  },
+  {
+    "reservations": [],
+    "room": "201"
+  }
+]
+{
+  "venue": "Centre Block",
+  "rooms": ["201"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "CLB6"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "Cat105"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-02-01",
+        "end": "2019-02-05",
+        "id": "tutorial"
+      },
+      {
+        "start": "2019-02-11",
+        "end": "2019-02-15",
+        "id": "consultation"
+      }
+    ],
+    "room": "101"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-02-01",
+        "end": "2019-02-05",
+        "id": "tutorial"
+      },
+      {
+        "start": "2019-02-11",
+        "end": "2019-02-15",
+        "id": "consultation"
+      }
+    ],
+    "room": "103"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "CLB7"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "Cat 101"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "Cat 104"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-25",
+      "id": "consultation[new]"
+    }],
+    "room": "201"
+  }
+]
+{
+  "venue": "Computer Science",
+  "rooms": [
+    "bongo",
+    "tabla"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-25",
+      "id": "Lab[new]"
+    }],
+    "room": "bongo"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-25",
+      "id": "Lab[new]"
+    }],
+    "room": "tabla"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-12",
+      "end": "2019-03-14",
+      "id": "Lab"
+    }],
+    "room": "Oud"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-12",
+      "end": "2019-03-14",
+      "id": "Lab"
+    }],
+    "room": "lyre"
+  }
+]
+{
+  "venue": "Centre Block",
+  "rooms": [
+    "CLB6",
+    "CLB7"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2019-01-01",
+        "end": "2019-01-31",
+        "id": "Lecture"
+      },
+      {
+        "start": "2019-02-01",
+        "end": "2019-02-05",
+        "id": "tutorial"
+      }
+    ],
+    "room": "CLB6"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "Cat105"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-02-01",
+        "end": "2019-02-05",
+        "id": "tutorial"
+      },
+      {
+        "start": "2019-02-11",
+        "end": "2019-02-15",
+        "id": "consultation"
+      }
+    ],
+    "room": "101"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-02-01",
+        "end": "2019-02-05",
+        "id": "tutorial"
+      },
+      {
+        "start": "2019-02-11",
+        "end": "2019-02-15",
+        "id": "consultation"
+      }
+    ],
+    "room": "103"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-01-01",
+        "end": "2019-01-31",
+        "id": "Lecture"
+      },
+      {
+        "start": "2019-02-01",
+        "end": "2019-02-05",
+        "id": "tutorial"
+      }
+    ],
+    "room": "CLB7"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "Cat 101"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-05",
+      "id": "tutorial"
+    }],
+    "room": "Cat 104"
+  },
+  {
+    "reservations": [{
+      "start": "2019-02-01",
+      "end": "2019-02-25",
+      "id": "consultation[new]"
+    }],
+    "room": "201"
+  }
+]
+
